@@ -1,0 +1,34 @@
+n-gram = 2
+
+['<dataset>', 'database'] 3926
+['initiative', '<dataset>'] 3702
+['<dataset>', 'data'] 2085
+['<dataset>', 'dataset'] 1738
+['<dataset>', 'cohort'] 1352
+['<dataset>', 'kindergarten'] 1189
+['national', '<dataset>'] 1138
+
+n-gram = 3
+
+['from', 'the', '<dataset>'] 6511
+['in', 'the', '<dataset>'] 3452
+['the', '<dataset>', 'database'] 2432
+['of', 'the', '<dataset>'] 2305
+['<dataset>', 'of', '1988'] 1360
+['the', '<dataset>', 'dataset'] 1145
+['initiative', '<dataset>', 'database'] 1092
+['the', '<dataset>', 'cohort'] 962
+['goal', 'of', '<dataset>'] 918
+['on', 'the', '<dataset>'] 893
+['the', '<dataset>', 'data'] 791
+['the', 'national', '<dataset>'] 791
+
+n-gram = 4
+
+['from', 'the', '<dataset>', 'database'] 1811
+['data', 'from', 'the', '<dataset>'] 1538
+['obtained', 'from', 'the', '<dataset>'] 1428
+['for', 'education', 'statistics', '<dataset>'] 717
+['primary', 'goal', 'of', '<dataset>'] 577
+['the', '<dataset>', 'was', 'launched'] 524
+
